@@ -36,7 +36,7 @@ p {
 }
 
 header {
-    width: 100vw;
+    width: max-content;
     background: url('../img/header_fon.png') no-repeat top center / cover;
 }
 
